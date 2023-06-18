@@ -302,7 +302,7 @@ img {
   </body>
   <footer>
     <div id="contact">
-      <a href="mailto:roopakiranbuddha@gmail.com"><img class="clue" src="gmail.png"><p class="boochi"><bold>CONTACT ME THROUGH MAIL.</bold></p></a>
+      <a href="mailto:roopakiranbuddha@gmail.com"><img class="clue" src="img\gmail.png"><p class="boochi"><bold>CONTACT ME THROUGH MAIL.</bold></p></a>
     </div>
   </footer>
 </html>
